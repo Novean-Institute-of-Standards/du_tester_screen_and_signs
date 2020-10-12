@@ -7,12 +7,11 @@ A Collection of SVG Animations for the different screens and signs sizes
 
 Supported Sizes and Display Elements
 
-  Sreens (all sizes)
-  Sign XS
-  Sign S
-  Sign M
-  Sign L
-
-  Vertical Sign XS
-  Vertical Sign S
-  Vertical Sign L
+* Sreens (all sizes)
+* Sign XS
+* Sign S
+* Sign M
+* Sign L
+* Vertical Sign XS
+* Vertical Sign S
+* Vertical Sign L
