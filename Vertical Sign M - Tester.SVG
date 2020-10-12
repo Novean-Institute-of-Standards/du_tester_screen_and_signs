@@ -1,0 +1,21 @@
+<svg  width="400" height="800"class="bootstrap" viewBox="0 0 400 800" preserveAspectRatio="none">
+<rect width="10" height="800" fill="orange">
+<animate attributeName="x" from="100" to="290" dur="10000ms" fill="freeze" repeatCount="indefinite"/>
+</rect>
+<rect width="10" height="800" fill="blue">
+<animate attributeName="x" from="290" to="100" dur="10000ms" fill="freeze" repeatCount="indefinite"/>
+</rect>
+<rect width="400" height="10" fill="red">
+<animate attributeName="y" from="0" to="800" dur="10000ms" fill="freeze" repeatCount="indefinite"/>
+</rect>
+<rect width="400" height="10" fill="green">
+<animate attributeName="y" from="800" to="0" dur="10000ms" fill="freeze" repeatCount="indefinite"/>
+</rect>
+   
+</svg>
+<div class="bootstrap" style="font-size:2vw; border: 1px solid white">DIV 1</div>
+
+
+
+
+
